@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ProjectWorkspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_mpw.xsd">
+
+  <SchemaVersion>1.0</SchemaVersion>
+
+  <Header>### uVision Project, (C) Keil Software</Header>
+
+  <WorkspaceName>WorkSpace</WorkspaceName>
+
+  <project>
+    <PathAndName>.\adc\adc.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\dac\dac.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\flash\flash.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\keyboard\keyboard.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\led_button\ledbutton.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\pwm\pwm.uvprojx</PathAndName>
+    <NodeIsActive>1</NodeIsActive>
+    <NodeIsExpanded>1</NodeIsExpanded>
+  </project>
+
+  <project>
+    <PathAndName>.\spi\spi.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\timer\timer.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\usart\usart.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\dma\dma.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\servo\servo.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\kesme\kesme.uvprojx</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\USB_hidcustom\MDK-ARM\USB_hidcustom.uvprojx</PathAndName>
+  </project>
+
+</ProjectWorkspace>
